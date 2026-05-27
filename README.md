@@ -8,3 +8,6 @@ Most recently, while working for a residential lighting and fan retailer, I took
 
 In early 2026 I spun up that home server again, this time running Proxmox with a Pi-hole DNS server and a PostgreSQL instance I planned to use for practice during a data analytics bootcamp. When it came time to choose a capstone project, the answer was already running on my network: 21 IoT devices quietly making DNS requests around the clock with no one watching. The result was a full-pipeline analytics project — from automated log ingestion through statistical anomaly detection and interactive visualization — that found real, undisclosed device behavior hiding in plain sight.
 
+## Projects
+
+**[Home IoT DNS Analysis](https://github.com/JeffKimbrel525/Home-DNS-Smart-Device-Inquiry)** — 8-week analysis of DNS query logs from 21 home IoT devices, uncovering undisclosed device behavior through statistical anomaly detection using PostgreSQL, Python, and interactive Tableau visualization.
