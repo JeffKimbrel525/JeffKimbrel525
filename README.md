@@ -10,4 +10,6 @@ In early 2026 I spun up that home server again, this time running Proxmox with a
 
 ## Projects
 
-**[Home IoT DNS Analysis](https://github.com/JeffKimbrel525/Home-DNS-Smart-Device-Inquiry)** — 8-week analysis of DNS query logs from 21 home IoT devices, uncovering undisclosed device behavior through statistical anomaly detection using PostgreSQL, Python, and interactive Tableau visualization.
+**[Home IoT DNS Analysis](https://github.com/JeffKimbrel525/Home-DNS-Smart-Device-Inquiry)** 8-week analysis of DNS query logs from 21 home IoT devices, uncovering undisclosed device behavior through statistical anomaly detection using PostgreSQL, Python, and interactive Tableau visualization.
+
+**[DVDRental Analysis](https://github.com/JeffKimbrel525/DVDRental-SQL-Python-Practice-/tree/main)** of DVDRental database looking at slow moving/dead inventory for practice, done originally in SQL and then I went back over it with Python to see how it can be analyzed differently with another languageD
